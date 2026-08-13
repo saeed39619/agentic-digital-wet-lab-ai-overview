@@ -10,7 +10,7 @@
 
 Biomedical research is not a straight path from data to answer. Scientists move repeatedly between observations, prior evidence, alternative explanations, experimental choices, measurements, and revision.
 
-The vision for this initiative is an **agentic digital wet lab** that helps qualified researchers navigate that cycle with greater continuity, rigor, and transparency. Bounded AI assistance can organize scientific context, compare plausible explanations, surface uncertainty, structure testable questions, and prepare reviewable experiment options—while scientists retain control over interpretation, execution, and conclusions.
+The vision for this initiative is an **agentic digital wet lab** that helps qualified researchers navigate that cycle with greater continuity, rigour, and transparency. Bounded AI assistance can organize scientific context, compare plausible explanations, surface uncertainty, structure testable questions, and prepare reviewable experiment options—while scientists retain control over interpretation, execution, and conclusions.
 
 The objective is not to replace physical experiments or scientific judgment. It is to make the reasoning around experiments more explicit, evidence-linked, and reusable.
 
@@ -167,7 +167,7 @@ Capabilities described as *planned*, *target*, *direction*, or *roadmap* are des
 
 ## Scope and Responsible-Use Boundary
 
-This concept focuses on **biological research reasoning and experimental learning**. It does not present a gene-to-drug, target-to-molecule, molecule-generation, therapeutic-candidate optimization, clinical decision, diagnostic, or autonomous laboratory system.
+This concept focuses on **biological research reasoning and experimental learning**. It is not a therapeutic-candidate discovery or optimization platform, clinical decision or diagnostic system, or autonomous laboratory system.
 
 It is not intended to provide medical advice, diagnose or treat patients, autonomously authorize or execute experiments, bypass scientific or biosafety review, support unsafe biological activity, or replace qualified scientific, ethical, privacy, legal, quality, or safety oversight.
 
